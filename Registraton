@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Forms in Html</title>
+</head>
+
+<body>
+    <form>
+        <fieldset>
+            <legend>
+                <h1>Personal details form</h1>
+            </legend>
+            <label>
+                Name
+            </label><br>
+            <input type="text"
+            id="name"><br><br>
+            <label></label>
+                Contact No.
+            </label><br>
+            <input type="number" id="Contact"><br><br>
+            <label>
+                Password
+            </label><br>
+            <input type="password" id="password"><br><br>
+            <label>
+                Age
+            </label><br>
+            <input type="number" id="name"><br><br>
+            <label>
+                Place of Birth
+            </label><br>
+            <input type="text" id="Contact"><br><br>
+            <label>
+                Civillian of:
+            </label><br>
+            <input type="text" id="password"><br><br>
+            <input type="submit">
+        </fieldset>
+    </form>
+</body>
+
+</html>
